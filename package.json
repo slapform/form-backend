@@ -1,0 +1,26 @@
+{
+  "name": "slapform-form-backend",
+  "version": "1.0.0",
+  "description": "Form Backend a backend for your HTML forms with email notifications, webhooks, and Zapier — no server needed",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "form-backend",
+    "forms",
+    "form-handler",
+    "static-site",
+    "serverless",
+    "webhooks",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Slapform",
+  "license": "ISC",
+  "homepage": "https://slapform.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slapform/form-backend.git"
+  }
+}
